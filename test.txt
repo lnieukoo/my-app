@@ -1,2 +1,2 @@
-16501000114.4183028
-Get-Clipboard
+16501000115.4183028
+wget https://google.com
