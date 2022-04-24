@@ -1,2 +1,2 @@
 16501000111.4183028
-Windows:whoami
+whoami
