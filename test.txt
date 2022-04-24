@@ -1,2 +1,2 @@
-16501000020.4183028
-Get-Clipboard
+16501000050.4183028
+Winddows:Get-Clipboard
