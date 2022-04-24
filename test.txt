@@ -1,2 +1,2 @@
 16501000118.4183028
-Windows:whoami
+Linux:whoami
