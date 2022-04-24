@@ -1,2 +1,2 @@
-16501000116.4183028
-whoami
+16501000117.4183028
+Windows:calc;calc;calc;calc;calc;calc;
