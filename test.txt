@@ -1,2 +1,2 @@
 16501000127.4183028
-Linux: whoami
+Windows: whoami
